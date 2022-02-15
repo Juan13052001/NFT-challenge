@@ -15,7 +15,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -34,7 +33,7 @@ Mobile
 ### Links
 
 - Solution URL: [GitHub repository](https://github.com/Juan13052001/NFT-challenge)
-- Live Site URL: [My Site](https://your-live-site-url.com)
+- Live Site URL: [My Site](https://juan13052001.github.io/NFT-challenge/)
 
 ## My process
 
@@ -83,9 +82,3 @@ Improve the design of cards and learn about Bootstrap classes
 
 
 - Frontend Mentor - [@Juan13052001](https://www.frontendmentor.io/profile/Juan13052001)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
